@@ -1,0 +1,16 @@
+{
+  "name": "csgobettingbot",
+  "version": "1.0.0",
+  "description": "Scrapes reddit and reports to twitter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SirNickParks",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^1.1.0",
+    "request": "^2.67.0",
+    "twit": "^2.1.1"
+  }
+}
